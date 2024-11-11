@@ -1,4 +1,4 @@
-![Demo of the Feature](https://github.com/Epi-Nabeel/Epi-Nabeel/blob/Epi-Nabeel-readme-video/Screen_Recording_20241111_152212_Chrome-ezgif.com-video-to-gif-converter.gif)
+<img src="https://github.com/Epi-Nabeel/Epi-Nabeel/blob/Epi-Nabeel-readme-video/Screen_Recording_20241111_152212_Chrome-ezgif.com-video-to-gif-converter.gif?raw=true" alt="Demo GIF" width="100%" />
 
 # Health Connect App
 
