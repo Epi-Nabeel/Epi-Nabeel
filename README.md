@@ -2,7 +2,7 @@
 
 # Health Connect App
 
-Welcome to the Health Connect App! This project is designed to provide a comprehensive health management solution for users in British Columbia (BC). It integrates various health features, task management, and user advocacy support.
+Welcome to the Health Connect App! This project is designed to provide a comprehensive health management solution for users in British Columbia (BC). It integrates various health features, task management, and user advocacy support. EDIT - Project isnt completed yet, will be live once its ready
 
 ## Table of Contents
 
