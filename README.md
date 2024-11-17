@@ -78,4 +78,4 @@ The app uses a health-themed design with a soothing blue and purple gradient on 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Epi-Nabeel/Epi-Nabeel/blob/main/LICENSE) file for details.
