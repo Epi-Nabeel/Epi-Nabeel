@@ -1,4 +1,4 @@
-<img src="https://github.com/Epi-Nabeel/firstRepo/blob/main/Screen_Recording_20241111_152212_Chrome-ezgif.com-video-to-gif-converter.gif?raw=true" alt="Demo GIF" width="100%" />
+<img src="https://github.com/Epi-Nabeel/Epi-Nabeel/blob/README_Video/Screen_Recording_20241111_152212_Chrome-ezgif.com-video-to-gif-converter.gif?raw=true" alt="Demo GIF" width="100%" />
 
 # Health Connect App
 
