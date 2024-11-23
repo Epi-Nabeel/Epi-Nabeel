@@ -29,11 +29,30 @@ A visually appealing and functional image gallery application built with modern 
 
 ---
 
-## 🛠 Skills and Tools
-- **Programming Languages:** JavaScript, React, SQL
-- **Database:** MySQL, PostgreSQL
-- **Frameworks and Tools:** Android Studio, FontAwesome, Git, Jira, AIs, Figma
-- **Design:** Playfair and Raleway fonts, animation-styled colors and elements.
+### 🛠 Skills and Tools
+
+#### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+
+#### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+
+#### Frameworks and Tools
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square)
+![FontAwesome](https://img.shields.io/badge/FontAwesome-339AF0?logo=font-awesome&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
+![Artificial Intelligence](https://img.shields.io/badge/AI-00FFFF?logo=openai&logoColor=black&style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+
+#### Design
+![Playfair Font](https://img.shields.io/badge/Playfair%20Display-000000?style=flat-square)
+![Raleway Font](https://img.shields.io/badge/Raleway-000000?style=flat-square)
+![Animation-Styled Colors](https://img.shields.io/badge/Animation%20Styled%20Colors-C71585?style=flat-square)
+
 
 ---
 
