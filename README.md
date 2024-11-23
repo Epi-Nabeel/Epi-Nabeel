@@ -35,21 +35,35 @@ A visually appealing and functional image gallery application built with modern 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square)
+
 
 #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Microsoft Access](https://img.shields.io/badge/MS%20Access-A4373A?logo=microsoft-access&logoColor=white&style=flat-square)
 
 #### Frameworks and Tools
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square)
 ![FontAwesome](https://img.shields.io/badge/FontAwesome-339AF0?logo=font-awesome&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
-![Artificial Intelligence](https://img.shields.io/badge/AI-00FFFF?logo=openai&logoColor=black&style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+
+#### Productivity Tools
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?logo=microsoft-office&logoColor=white&style=flat-square)
 
 #### Design
-![Playfair Font](https://img.shields.io/badge/Playfair%20Display-000000?style=flat-square)
+![Playfair Display Font](https://img.shields.io/badge/Playfair%20Display-000000?style=flat-square)
 ![Raleway Font](https://img.shields.io/badge/Raleway-000000?style=flat-square)
 ![Animation-Styled Colors](https://img.shields.io/badge/Animation%20Styled%20Colors-C71585?style=flat-square)
 
