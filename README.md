@@ -1,80 +1,57 @@
 <img src="https://github.com/Epi-Nabeel/Epi-Nabeel/blob/README_Video/Screen_Recording_20241111_152212_Chrome-ezgif.com-video-to-gif-converter.gif?raw=true" alt="Demo GIF" width="100%" />
 
-# Health Connect App
+# 👋 Welcome to My GitHub Profile!
 
-Welcome to the Health Connect App! This project is designed to provide a comprehensive health management solution for users in British Columbia (BC). It integrates various health features, task management, and user advocacy support. 
-EDIT - Project isnt completed yet, will be live once its ready
+Hi! I'm a passionate **Full Stack Developer** and **Database Enthusiast** working on exciting projects that combine creativity and technology. Here's a glimpse of what I do:
 
-## Table of Contents
+---
 
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Technologies](#technologies)
-- [Design](#design)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## 🚀 Projects
 
-## Features
+### [Health Connect App](#)
+##This is under construction
+A health-themed app with a clean and modern UI, designed to help users manage their health efficiently.  
+**Features:**
+UNDER WORK
 
-- **Task Management**: A full-stack to-do list built with React, allowing users to manage tasks with various states.
-- **Patient Record Management**: Easily accessible patient records with intuitive background colors for a user-friendly interface.
-- **Health Tracking**: Track health metrics with a visually appealing design and a health-focused blue and purple gradient.
-- **Student Advocacy**: Supports student advocacy efforts, with resources and functionalities suited to the Student Advocacy Coordinator role.
 
-## Getting Started
+---
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/health-connect-app.git
-   ```
-2. **Navigate to the project directory**:
-   ```bash
-   cd health-connect-app
-   ```
-3. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-4. **Run the application**:
-   ```bash
-   npm start
-   ```
+#### [ReqRes-API-User-Display](https://github.com/Epi-Nabeel/ReqRes-API-User-Display)
+A JavaScript project showcasing API integration and user data display using the ReqRes API.  
+**Tech Stack:** JavaScript  
+**License:** MIT
 
-## Technologies
+#### [Image-Gallery-Application](https://github.com/Epi-Nabeel/image-gallery-application)
+A visually appealing and functional image gallery application built with modern web technologies.  
+**Tech Stack:** Frontend  
+**Key Features:** User-friendly design and image display.
 
-- **Front-end**: React
-- **Back-end**: Node.js, Express
-- **Database**: MongoDB
-- **Mobile Framework**: Android Studio (Koala feature drop 2024.1.2, created in Ladybug 2024.2.1)
-- **Languages**: JavaScript, HTML, CSS
-- **Design**: Fonts used include *Playfair* and *Raleway* for a modern, clean look.
+---
 
-## Design
+## 🛠 Skills and Tools
+- **Programming Languages:** JavaScript, React, SQL
+- **Database:** MySQL, PostgreSQL
+- **Frameworks and Tools:** Android Studio, FontAwesome, Git, Jira, AIs, Figma
+- **Design:** Playfair and Raleway fonts, animation-styled colors and elements.
 
-The app uses a health-themed design with a soothing blue and purple gradient on the home activity, promoting a sense of calm and trust. Suitable background colors for the patient record tab make it easy to distinguish and manage patient information effectively.
+---
 
-## Usage
+## 📚 Current Learning
+- Advancing my skills in React state management and asynchronous JavaScript.
+- Exploring best practices for Android development with modern design patterns.
 
-- **Delivery & Coordination**: Developed with a focus on aiding delivery and coordination roles, particularly suited for tasks and patient management.
-- **Student Advocacy Resources**: Access resources and advocate efficiently using the app’s built-in features for advocacy roles.
+---
 
-## Contributing
+## 🌟 Interests
+- Building applications that solve real-world problems.
+- Exploring design elements to create visually appealing UIs.
+- Working with databases to efficiently manage and organize data.
 
-1. Fork the repository.
-2. Create a new branch for your feature:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add feature"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
+---
+
+## 📫 Let's Connect
+Feel free to reach out to me if you'd like to collaborate or have any questions about my projects!
 
 ## License
 
