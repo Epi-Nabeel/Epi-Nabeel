@@ -88,4 +88,4 @@ Feel free to reach out to me if you'd like to collaborate or have any questions 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Epi-Nabeel/Epi-Nabeel/blob/main/LICENSE) file for details.
+All project is licensed under the MIT License - see the [LICENSE](https://github.com/Epi-Nabeel/Epi-Nabeel/blob/main/LICENSE) file for details.
