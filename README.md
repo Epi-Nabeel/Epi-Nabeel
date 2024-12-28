@@ -9,11 +9,16 @@ Hi! I'm a passionate **Full Stack Developer** and **Database Enthusiast** workin
 ## 🚀 Projects
 
 ### [Health Connect App](https://github.com/Epi-Nabeel/HealthConnect)
-##This is under construction
-A health-themed app with a clean and modern UI, designed to help users manage their health efficiently.  
-**Features:**
-UNDER WORK
+A health-themed application with a clean and modern UI, designed to help users manage their health efficiently.  
 
+**Tech Stack:** Android, Java, XML, Android Studio  
+
+**Key Features:**  
+- Patient record management  
+- Consultation history tracking  
+- Medical tracking for prescriptions and medicines  
+- Appointment scheduling  
+- Medicines list with detailed views  
 
 ---
 
