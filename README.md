@@ -20,8 +20,6 @@ A health-themed application with a clean and modern UI, designed to help users m
 - Appointment scheduling  
 - Medicines list with detailed views  
 
----
-
 #### [ReqRes-API-User-Display](https://github.com/Epi-Nabeel/ReqRes-API-User-Display)
 A JavaScript project showcasing API integration and user data display using the ReqRes API.  
 **Tech Stack:** JavaScript  
