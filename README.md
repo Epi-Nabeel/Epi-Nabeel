@@ -20,10 +20,13 @@ A health-themed application with a clean and modern UI, designed to help users m
 - Appointment scheduling  
 - Medicines list with detailed views  
 
-#### [ReqRes-API-User-Display](https://github.com/Epi-Nabeel/ReqRes-API-User-Display)
-A JavaScript project showcasing API integration and user data display using the ReqRes API.  
-**Tech Stack:** JavaScript  
-**License:** MIT
+#### [Link-Detail-Tracer](https://github.com/Epi-Nabeel/Link-Detail)
+A Python-based tool for tracing URL redirections and visualizing the redirection chain.  
+**Tech Stack:** Python  
+**Key Features:**  
+- Redirection chain tracing  
+- Clear visualization of redirects  
+- Error handling for invalid URLs  
 
 #### [Image-Gallery-Application](https://github.com/Epi-Nabeel/image-gallery-application)
 A visually appealing and functional image gallery application built with modern web technologies.  
@@ -35,6 +38,7 @@ A visually appealing and functional image gallery application built with modern 
 ### 🛠 Skills and Tools
 
 #### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
