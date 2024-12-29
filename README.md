@@ -20,7 +20,7 @@ A health-themed application with a clean and modern UI, designed to help users m
 - Appointment scheduling  
 - Medicines list with detailed views  
 
-#### [Link-Detail-Tracer](https://github.com/Epi-Nabeel/Link-Detail)
+#### [Link-Detail](https://github.com/Epi-Nabeel/Link-Detail)
 A Python-based tool for tracing URL redirections and visualizing the redirection chain.  
 **Tech Stack:** Python  
 **Key Features:**  
