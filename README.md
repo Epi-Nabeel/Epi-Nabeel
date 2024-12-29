@@ -75,6 +75,8 @@ A visually appealing and functional image gallery application built with modern 
 ![Animation-Styled Colors](https://img.shields.io/badge/Animation%20Styled%20Colors-C71585?style=flat-square)
 
 
+![epi-nabeel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=epi-nabeel&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ---
 
 ## 📚 Current Learning
