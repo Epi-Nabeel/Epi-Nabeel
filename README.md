@@ -20,7 +20,7 @@ A health-themed application with a clean and modern UI, designed to help users m
 - Appointment scheduling  
 - Medicines list with detailed views  
 
-#### [Link-Detail](https://github.com/Epi-Nabeel/Link-Detail)
+### [Link-Detail](https://github.com/Epi-Nabeel/Link-Detail)
 A Python-based tool for tracing URL redirections and visualizing the redirection chain.  
 **Tech Stack:** Python  
 **Key Features:**  
@@ -28,10 +28,16 @@ A Python-based tool for tracing URL redirections and visualizing the redirection
 - Clear visualization of redirects  
 - Error handling for invalid URLs  
 
-#### [Image-Gallery-Application](https://github.com/Epi-Nabeel/image-gallery-application)
-A visually appealing and functional image gallery application built with modern web technologies.  
-**Tech Stack:** Frontend  
-**Key Features:** User-friendly design and image display.
+### [Bitly URL Shortener](https://github.com/Epi-Nabeel/url-shortener)
+An interactive command-line application to shorten URLs using the Bitly API.  
+
+**Tech Stack:** Python  
+
+**Key Features:**  
+- Dynamically prompts users for their Bitly API key.  
+- Shortens URLs with ease.  
+- Handles API errors and invalid inputs gracefully.  
+- Clear and simple interface.  
 
 ---
 
