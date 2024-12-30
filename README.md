@@ -28,7 +28,7 @@ A Python-based tool for tracing URL redirections and visualizing the redirection
 - Clear visualization of redirects  
 - Error handling for invalid URLs  
 
-### [Bitly URL Shortener](https://github.com/Epi-Nabeel/url-shortener)
+### [Bitly URL Shortener](https://github.com/Epi-Nabeel/urlshortener)
 An interactive command-line application to shorten URLs using the Bitly API.  
 
 **Tech Stack:** Python  
